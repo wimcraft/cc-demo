@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "9fb18ae9-6cff-4dfe-96c5-e96f572956e0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SkullStone_Idle_002": {
+      "ver": "1.0.3",
+      "uuid": "86567e87-8467-4c3e-94a8-40dc2199e6af",
+      "rawTextureUuid": "9fb18ae9-6cff-4dfe-96c5-e96f572956e0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": -2,
+      "trimX": 0,
+      "trimY": 4,
+      "width": 509,
+      "height": 512,
+      "rawWidth": 515,
+      "rawHeight": 516,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

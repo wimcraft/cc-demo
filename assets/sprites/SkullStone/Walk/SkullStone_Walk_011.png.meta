@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "7f6b3e3d-cd84-47d3-a9ab-4735ef619a5e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SkullStone_Walk_011": {
+      "ver": "1.0.3",
+      "uuid": "b4a47ea7-c000-472a-9fe8-e19685ed174a",
+      "rawTextureUuid": "7f6b3e3d-cd84-47d3-a9ab-4735ef619a5e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 20.5,
+      "offsetY": -13,
+      "trimX": 70,
+      "trimY": 28,
+      "width": 459,
+      "height": 526,
+      "rawWidth": 558,
+      "rawHeight": 556,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

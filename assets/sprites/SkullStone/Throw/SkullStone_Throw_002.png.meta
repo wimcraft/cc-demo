@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "4bd8b5e5-0e5d-4a58-9972-95e283f01a58",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SkullStone_Throw_002": {
+      "ver": "1.0.3",
+      "uuid": "6a06ecbd-9f9b-4785-9c44-546c1159bdc5",
+      "rawTextureUuid": "4bd8b5e5-0e5d-4a58-9972-95e283f01a58",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -265.5,
+      "offsetY": -52,
+      "trimX": 39,
+      "trimY": 113,
+      "width": 444,
+      "height": 559,
+      "rawWidth": 1053,
+      "rawHeight": 681,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

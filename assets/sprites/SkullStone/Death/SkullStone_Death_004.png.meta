@@ -1,0 +1,31 @@
+{
+  "ver": "2.2.0",
+  "uuid": "b06ade17-58e8-4940-b0a0-81868d8a8dc6",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "subMetas": {
+    "SkullStone_Death_004": {
+      "ver": "1.0.3",
+      "uuid": "19751208-7d86-49bd-8e2e-7a1ebf74a382",
+      "rawTextureUuid": "b06ade17-58e8-4940-b0a0-81868d8a8dc6",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -23,
+      "offsetY": 39.5,
+      "trimX": 101,
+      "trimY": 118,
+      "width": 452,
+      "height": 436,
+      "rawWidth": 700,
+      "rawHeight": 751,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
