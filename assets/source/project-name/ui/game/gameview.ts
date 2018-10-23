@@ -10,7 +10,13 @@ export default class GameView extends cc.Component implements Observer
     lbScore: cc.Label = null
 
     @property(cc.Label)
-    lbStatus: cc.Label = null;
+    lbStatus: cc.Label = null
+
+    @property(cc.Node)
+    warrior: cc.Node = null
+
+    @property(cc.Prefab)
+    stonePrefab: cc.Prefab = null
 
     applyModel(model:GameModel)
     {

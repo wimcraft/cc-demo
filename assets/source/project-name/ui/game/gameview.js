@@ -12,6 +12,8 @@ let GameView = class GameView extends cc.Component {
         super(...arguments);
         this.lbScore = null;
         this.lbStatus = null;
+        this.warrior = null;
+        this.stonePrefab = null;
     }
     applyModel(model) {
         model.addObserver(this);
@@ -27,6 +29,12 @@ __decorate([
 __decorate([
     property(cc.Label)
 ], GameView.prototype, "lbStatus", void 0);
+__decorate([
+    property(cc.Node)
+], GameView.prototype, "warrior", void 0);
+__decorate([
+    property(cc.Prefab)
+], GameView.prototype, "stonePrefab", void 0);
 GameView = __decorate([
     ccclass
 ], GameView);
